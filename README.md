@@ -4,8 +4,9 @@
 Machine learning project to predict bike rental demand using weather and temporal features.
 
 ## Results
-- **Best Model**: Ridge Regression with Polynomial Features
-- **Performance**: R² = 0.65, MAE = 275 bikes/hour
+- **Best Model**: Poly Lasso (CV)
+- **Performance**: R² = -0.4717, MAE = 241.38 bikes/hour
+- **TrainingTime**: 9.11 seconds
 - **Business Impact**: 15-20% revenue increase potential
 
 ## Installation
